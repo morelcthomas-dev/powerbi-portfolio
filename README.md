@@ -109,7 +109,7 @@ Le projet combine des données issues de la **NASA (GISS Surface Temperature Ana
 
 ---
 
-## 🧩 Technologies utilisées
+## 🧩 Technologies et sources utilisées 
 
 - **Power BI Desktop**  
 - **NASA GISS Surface Temperature Analysis (NOAA)**  
